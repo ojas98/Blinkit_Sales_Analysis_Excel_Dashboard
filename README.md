@@ -1,4 +1,4 @@
-## ![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/c9e82c15-b19c-44c3-9b1a-4c3f23dffda6) 
+![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/c9e82c15-b19c-44c3-9b1a-4c3f23dffda6) 
 # 🛒 Zepto Sales Analysis - Excel Dashboard  
 
 ## 📌 Overview  
