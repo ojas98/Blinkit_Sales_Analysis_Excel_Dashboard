@@ -76,7 +76,7 @@ The goal of this analysis is to:
 1️⃣ **Download the Excel file** from this repository  
 2️⃣ Open the file in **Microsoft Excel (2016 or later)**  
 3️⃣ Use **slicers** to filter and interact with the data  
-4️⃣ Analyze sales trends and customer feedback for business insights  
+4️⃣ Analyze sales trends based on items, tier 1, 2 and 3 cities. 
 
 ---
 
