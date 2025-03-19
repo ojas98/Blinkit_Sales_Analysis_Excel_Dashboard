@@ -1,4 +1,5 @@
-# 🛒 blinkit Sales Analysis - Excel Dashboard  
+# ![Screenshot 2025-03-19 104145](https://github.com/user-attachments/assets/188974d6-b645-4243-ae05-75a69ae2c4a5)
+ blinkit Sales Analysis - Excel Dashboard  
 
 ## 📌 Overview  
 This Excel project provides a **comprehensive analysis** of **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The interactive dashboard helps identify key insights and opportunities for **business optimization**.  
