@@ -67,7 +67,8 @@ The goal of this analysis is to:
 ---
 
 ## 🖼️ Dashboard Preview  
-*(Add screenshots of your Excel dashboard here)*  
+
+![Screenshot 2025-03-19 161731](https://github.com/user-attachments/assets/49db23d4-95cf-4e33-bac7-f6910556f1ed)
 
 ---
 
