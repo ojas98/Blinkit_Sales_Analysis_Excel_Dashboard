@@ -1,6 +1,5 @@
-![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/5d4cb0ce-06a6-4359-86ea-dfbc5d75721c)
+![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/51e2c970-d5ed-4c35-a5c2-67d2555f11ce)
 # 🛒 Zepto Sales Analysis - Excel Dashboard  
-
 
 ## 📌 Overview  
 This Excel project provides a **comprehensive analysis** of **Zepto's** sales performance, customer satisfaction, and inventory distribution. The interactive dashboard helps identify key insights and opportunities for **business optimization**.  
@@ -32,7 +31,7 @@ The goal of this analysis is to:
 
 ---
 
-## 📈 Chart Requirements 
+## 📈 Chart Requirements  
 
 ### **1️⃣ Total Sales by Fat Content**  
 - **Objective**: Analyze the impact of fat content on total sales.  
@@ -52,6 +51,18 @@ The goal of this analysis is to:
 ### **4️⃣ Total Sales by Outlet Establishment**  
 - **Objective**: Evaluate how the age or type of outlet establishment influences total sales.  
 - **Chart Type**: 📈 **Line Chart**  
+
+### **5️⃣ Sales by Outlet Size**  
+- **Objective**: Analyze the correlation between outlet size and total sales.  
+- **Chart Type**: 🥧 **Donut/Pie Chart**  
+
+### **6️⃣ Sales by Outlet Location**  
+- **Objective**: Assess the geographic distribution of sales across different locations.  
+- **Chart Type**: 🌍 **Funnel Map**  
+
+### **7️⃣ All Metrics by Outlet Type**  
+- **Objective**: Provide a comprehensive view of all key metrics (**Total Sales, Average Sales, Number of Items, Average Rating**) broken down by different outlet types.  
+- **Chart Type**: 📊 **Matrix Card**  
 
 ---
 
