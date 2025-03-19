@@ -1,5 +1,5 @@
 
-# ![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/c9e82c15-b19c-44c3-9b1a-4c3f23dffda6) 🛒 Zepto Sales Analysis - Excel Dashboard  
+ ![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/c9e82c15-b19c-44c3-9b1a-4c3f23dffda6) # 🛒 Zepto Sales Analysis - Excel Dashboard  
 
 ## 📌 Overview  
 This Excel project provides a **comprehensive analysis** of **Zepto's** sales performance, customer satisfaction, and inventory distribution. The interactive dashboard helps identify key insights and opportunities for **business optimization**.  
