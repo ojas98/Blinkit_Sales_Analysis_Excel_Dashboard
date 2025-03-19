@@ -1,5 +1,6 @@
-![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/c9e82c15-b19c-44c3-9b1a-4c3f23dffda6) 
+![Screenshot 2025-03-19 104443](https://github.com/user-attachments/assets/5d4cb0ce-06a6-4359-86ea-dfbc5d75721c)
 # 🛒 Zepto Sales Analysis - Excel Dashboard  
+
 
 ## 📌 Overview  
 This Excel project provides a **comprehensive analysis** of **Zepto's** sales performance, customer satisfaction, and inventory distribution. The interactive dashboard helps identify key insights and opportunities for **business optimization**.  
@@ -31,6 +32,29 @@ The goal of this analysis is to:
 
 ---
 
+## 📈 Chart Requirements 
+
+### **1️⃣ Total Sales by Fat Content**  
+- **Objective**: Analyze the impact of fat content on total sales.  
+- **Additional KPIs**: Assess variations in **Average Sales, Number of Items, and Average Rating** based on fat content.  
+- **Chart Type**: 🟠 **Donut Chart**  
+
+### **2️⃣ Total Sales by Item Type**  
+- **Objective**: Identify the performance of different item types in terms of total sales.  
+- **Additional KPIs**: Assess how **Average Sales, Number of Items, and Average Rating** vary with item type.  
+- **Chart Type**: 📊 **Bar Chart**  
+
+### **3️⃣ Fat Content by Outlet for Total Sales**  
+- **Objective**: Compare total sales across different outlets segmented by fat content.  
+- **Additional KPIs**: Assess variations in **Average Sales, Number of Items, and Average Rating** by fat content.  
+- **Chart Type**: 📉 **Stacked Column Chart**  
+
+### **4️⃣ Total Sales by Outlet Establishment**  
+- **Objective**: Evaluate how the age or type of outlet establishment influences total sales.  
+- **Chart Type**: 📈 **Line Chart**  
+
+---
+
 ## 🖼️ Dashboard Preview  
 *(Add screenshots of your Excel dashboard here)*  
 
@@ -57,10 +81,7 @@ If you have suggestions or improvements, feel free to **fork** this repository a
 ---
 
 ## 📩 Contact  
-For any queries or feedback, connect with me on **[LinkedIn](https://www.linkedin.com/in/ojasbalsotra/)**.  
-
----
-### ⭐ If you find this project useful, don't forget to **star** this repository!  
+For any queries or feedback, connect with me on **[LinkedIn](your-linkedin-url)**.  
 
 ---
 
@@ -71,3 +92,4 @@ This project aims to provide **actionable insights** into Zepto's sales trends, 
 
 ---
 
+### ⭐ If you find this project useful, don't forget to **star** this repository!  
