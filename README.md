@@ -57,7 +57,7 @@ If you have suggestions or improvements, feel free to **fork** this repository a
 ---
 
 ## 📩 Contact  
-For any queries or feedback, connect with me on **[LinkedIn](your-linkedin-url)**.  
+For any queries or feedback, connect with me on **[LinkedIn](https://www.linkedin.com/in/ojasbalsotra/)**.  
 
 ---
 
